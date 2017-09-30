@@ -1,0 +1,8 @@
+a=int(5 + 6) 
+print(a) 
+b=int(20 - 10) 
+print(b) 
+c=float(56 / 7) 
+print(c) 
+d=int(4 % 2)
+print(d)
